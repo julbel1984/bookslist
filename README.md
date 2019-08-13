@@ -12,7 +12,7 @@
 
 ### SQL
 - [x] [MySQL. Сборник рецептов](https://www.ozon.ru/context/detail/id/2151095/) — Дюбуа Поль
-- [ ] MySQL по максимуму](https://www.ozon.ru/context/detail/id/145190140/) — 
+- [ ] [MySQL по максимуму](https://www.ozon.ru/context/detail/id/145190140/) — 
 Зайцев Петр , Ткаченко Вадим , Шварц Бэрон
 
 ### Паттерны проектирования
