@@ -8,7 +8,7 @@
 - [ ] [Совершенный код](https://www.ozon.ru/context/detail/id/142768363/) — Стив Макконнелл
 
 ### Php
-- [x] [PHP 7 в подлинниен](https://www.ozon.ru/context/detail/id/137538198/) — Котеров Дмитрий Владимирович , Симдянов Игорь Вячеславович
+- [x] [PHP 7 в подлиннике](https://www.ozon.ru/context/detail/id/137538198/) — Котеров Дмитрий Владимирович , Симдянов Игорь Вячеславович
 
 ### SQL
 - [x] [MySQL. Сборник рецептов](https://www.ozon.ru/context/detail/id/2151095/) — Дюбуа Поль
